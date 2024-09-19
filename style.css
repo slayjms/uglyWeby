@@ -1,0 +1,56 @@
+h1 {
+    color: #ae1a1a;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 5px;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: center;
+}
+
+p {
+    color: #5f436e;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 56px;
+    line-height: 24px;
+    margin: 0 0 24px;
+    text-align: justify;
+    text-justify: inter-word;
+    background-color: lightskyblue;
+}
+
+textarea {
+    margin: 20px;
+    width: 300px;
+    height: 150px;
+    color: aqua;
+}
+
+ul, ol {
+    margin: 20px;
+    padding: 0;
+    color: darkkhaki;
+    background-color: deeppink;
+}
+
+li {
+    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+    border-bottom: 1px solid #ccc;
+}
+   
+li:last-child {
+    border: none;
+}
+
+form {
+    height:110px;
+    width:190px;
+    margin:auto;
+    border:1px #CCC solid;
+    padding:10px;
+}
+    
+input, textarea {
+    padding:13px;
+    margin:67px
+}
